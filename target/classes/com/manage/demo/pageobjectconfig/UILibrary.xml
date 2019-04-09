@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--整个对象库文件的根目录，管理整个项目的对象-->
+<map>
+    <!--管理一个页面的元素（webelement：input,select,textare,a,li等标签），一个page包含多个locator对象
+    Pagename:page对象名字，格式：net.hk515.PageObject.xxxPage;最后面那位才是真正的页面名字，前面的是java对象库路径；
+    另外注意，页面名字是头个单词大写；例如主页：名字定义为 net.hk515.PageObject.HomePage
+    Value：页面对象的URL，可不填。
+    Desc:页面对象中文描述-->
+    <page pagename="com.manage.demo.pagemanage.LoginPage" value="" desc="登陆页面">
+        <!--管理一个页面的元素（webelement：input,select,textare,a,li等标签），一个page包含多个locator对象
+        Type：定位方式，包含id,name,class,linktext,xpath,css等，定位元素的时候灵活使用，一般可以统一用xpath
+        代替id,name,class，linktext的定位方式。
+        Timeout：元素加载时间，有些页面元素，可能要等待一段时间才能加载过来，为了查找元素的稳定性，需加等待时间。
+        Value:元素定位信息，如果是id,name,class，linktext直接把网页元素对应的这些属性值写上即可，如果是xpath定位方式，
+        需要填写正确的xpath语法格式。
+        Desc:元素的描述，元素的中文描述信息-->
+		<locator type="xpath" timeout="3" value=".//*[@id='loginAccount']"  desc="快捷登陆">loginusername</locator>
+		<locator type="xpath" timeout="3" value=".//*[@id='loginPwd']"  desc="用户名输入框">loginupassword</locator>
+		<locator type="xpath" timeout="3" value=".//*[@id='root']/div/div[2]/div[2]/form/div[3]/button"  desc="登陆按钮">loginbutton</locator>
+	</page>
+	    <!--<page pagename="com.manage.demo.pagemanage.PaayPage" value="" desc="CPP单人会籍微信支付">-->
+		<!--<locator type="xpath" timeout="3" value=".//*[@id='__next']/div/header/div/div/div[1]/div/div[2]/div[1]/div[2]/div"  desc="产品和市场">产品和市场</locator>      -->
+		<!--<locator type="xpath" timeout="3" value=".//*[@id='text-basic-pop']/li/a/span"  desc="失卡保障">失卡保障</locator>-->
+		<!--<locator type="xpath" timeout="3" value=".//*[@id='1']/div/div[2]/div/div[3]/div/div/div[2]/button" desc="失卡保障单人会籍">失卡保障单人会籍</locator>-->
+		<!--<locator type="xpath" timeout="3" value=".//*[@id='product-detail']/div[1]/div/div[2]/div[6]/button" desc="立即购买">立即购买</locator>-->
+		<!--<locator type="xpath" timeout="3" value=".//*[@id='undefined']/div/div/div[3]/div/div[2]/button" desc="信息填写">信息填写</locator>-->
+		<!--<locator type="xpath" timeout="3" value=".//*[@id='undefined']/div/div/div[3]/div/div[3]/div/div/div/span" desc="同意">同意</locator>-->
+	    <!--<locator type="xpath" timeout="5" value=".//*[@id='undefined']/div/div/div[3]/div/div[4]/button[3]" desc="确认订单">确认订单</locator>-->
+	    <!--<locator type="xpath" timeout="3" value=".//*[@id='undefined']/div/div/div[3]/div/div/div[2]/div[1]/div[2]/div[1]" desc="微信扫码">微信扫码</locator>-->
+	    <!--<locator type="xpath" timeout="3" value=".//*[@id='undefined']/div/div/div[3]/div/div/div[2]/div[2]/div[2]/button" desc="确定支付">确定支付</locator>-->
+	<!--</page>-->
+	   <!---->
+
+	   
+	         
+	   
+	   
+</map>

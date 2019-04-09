@@ -1,0 +1,142 @@
+[2019-04-09 00:00:58,509] INFO  com.manage.demo.util.TestBaseCase ------------------开始执行测试---------------
+[2019-04-09 00:00:58,509] INFO  com.manage.demo.util.TestBaseCase 读取testng.xml配置的FirefoxDriver浏览器并将其初始化
+
+[2019-04-09 00:00:58,773] ERROR com.manage.demo.util.TestBaseCase 没有成功浏览器环境配置错误
+[2019-04-09 00:02:40,380] INFO  com.manage.demo.util.TestBaseCase ------------------开始执行测试---------------
+[2019-04-09 00:02:40,388] INFO  com.manage.demo.util.TestBaseCase 读取testng.xml配置的FirefoxDriver浏览器并将其初始化
+
+[2019-04-09 00:02:40,872] ERROR com.manage.demo.util.TestBaseCase 没有成功浏览器环境配置错误
+[2019-04-09 00:14:36,071] INFO  com.manage.demo.util.TestBaseCase ------------------开始执行测试---------------
+[2019-04-09 00:14:36,077] INFO  com.manage.demo.util.TestBaseCase 读取testng.xml配置的FirefoxDriver浏览器并将其初始化
+
+[2019-04-09 00:14:36,429] ERROR com.manage.demo.util.TestBaseCase 没有成功浏览器环境配置错误
+[2019-04-09 00:19:00,635] INFO  com.manage.demo.util.TestBaseCase ------------------开始执行测试---------------
+[2019-04-09 00:19:00,637] INFO  com.manage.demo.util.TestBaseCase 读取testng.xml配置的FirefoxDriver浏览器并将其初始化
+
+[2019-04-09 00:19:00,897] ERROR com.manage.demo.util.TestBaseCase 没有成功浏览器环境配置错误
+[2019-04-09 00:19:51,990] INFO  com.manage.demo.util.TestBaseCase ------------------开始执行测试---------------
+[2019-04-09 00:19:51,999] INFO  com.manage.demo.util.TestBaseCase 读取testng.xml配置的FirefoxDriver浏览器并将其初始化
+
+[2019-04-09 00:19:52,286] ERROR com.manage.demo.util.TestBaseCase 没有成功浏览器环境配置错误
+[2019-04-09 00:29:50,227] INFO  com.manage.demo.util.TestBaseCase ------------------开始执行测试---------------
+[2019-04-09 00:29:50,229] INFO  com.manage.demo.util.TestBaseCase 读取testng.xml配置的FirefoxDriver浏览器并将其初始化
+
+[2019-04-09 00:29:56,956] ERROR com.manage.demo.util.TestBaseCase 没有成功浏览器环境配置错误
+[2019-04-09 00:33:33,770] INFO  com.manage.demo.util.TestBaseCase ------------------开始执行测试---------------
+[2019-04-09 00:33:33,773] INFO  com.manage.demo.util.TestBaseCase 读取testng.xml配置的FirefoxDriver浏览器并将其初始化
+
+[2019-04-09 00:33:45,769] INFO  com.manage.demo.util.TestBaseCase -------------结束测试，并关闭退出浏览器-------------
+[2019-04-09 00:41:31,524] INFO  com.manage.demo.util.TestBaseCase ------------------开始执行测试---------------
+[2019-04-09 00:41:31,526] INFO  com.manage.demo.util.TestBaseCase 读取testng.xml配置的FirefoxDriver浏览器并将其初始化
+
+[2019-04-09 00:44:14,170] INFO  com.manage.demo.util.TestBaseCase ------------------开始执行测试---------------
+[2019-04-09 00:44:14,172] INFO  com.manage.demo.util.TestBaseCase 读取testng.xml配置的FirefoxDriver浏览器并将其初始化
+
+[2019-04-09 00:47:37,148] INFO  com.manage.demo.util.TestBaseCase ------------------开始执行测试---------------
+[2019-04-09 00:47:37,149] INFO  com.manage.demo.util.TestBaseCase 读取testng.xml配置的FirefoxDriver浏览器并将其初始化
+
+[2019-04-09 00:49:07,569] INFO  com.manage.demo.util.TestBaseCase ------------------开始执行测试---------------
+[2019-04-09 00:49:07,572] INFO  com.manage.demo.util.TestBaseCase 读取testng.xml配置的FirefoxDriver浏览器并将其初始化
+
+[2019-04-09 00:51:36,602] INFO  com.manage.demo.util.TestBaseCase ------------------开始执行测试---------------
+[2019-04-09 00:51:36,604] INFO  com.manage.demo.util.TestBaseCase 读取testng.xml配置的FirefoxDriver浏览器并将其初始化
+
+[2019-04-09 00:57:22,381] INFO  com.manage.demo.util.TestBaseCase ------------------开始执行测试---------------
+[2019-04-09 00:57:22,383] INFO  com.manage.demo.util.TestBaseCase 读取testng.xml配置的FirefoxDriver浏览器并将其初始化
+
+[2019-04-09 00:58:33,273] ERROR com.manage.demo.util.TestBaseCase 没有成功浏览器环境配置错误
+[2019-04-09 00:58:34,285] ERROR com.manage.demo.util.TestBaseCase 没有成功浏览器环境配置错误
+[2019-04-09 07:18:25,936] INFO  com.manage.demo.util.TestBaseCase ------------------开始执行测试---------------
+[2019-04-09 07:18:25,952] INFO  com.manage.demo.util.TestBaseCase 读取testng.xml配置的FirefoxDriver浏览器并将其初始化
+
+[2019-04-09 07:18:26,078] ERROR com.manage.demo.util.TestBaseCase 没有成功浏览器环境配置错误
+[2019-04-09 07:20:33,947] INFO  com.manage.demo.util.TestBaseCase ------------------开始执行测试---------------
+[2019-04-09 07:20:33,947] INFO  com.manage.demo.util.TestBaseCase 读取testng.xml配置的FirefoxDriver浏览器并将其初始化
+
+[2019-04-09 07:20:34,200] ERROR com.manage.demo.util.TestBaseCase 没有成功浏览器环境配置错误
+[2019-04-09 07:48:17,382] INFO  com.manage.demo.util.TestBaseCase ------------------开始执行测试---------------
+[2019-04-09 07:48:17,382] INFO  com.manage.demo.util.TestBaseCase 读取testng.xml配置的FirefoxDriver浏览器并将其初始化
+
+[2019-04-09 07:49:21,776] INFO  com.manage.demo.util.TestBaseCase ------------------开始执行测试---------------
+[2019-04-09 07:49:21,776] INFO  com.manage.demo.util.TestBaseCase 读取testng.xml配置的FirefoxDriver浏览器并将其初始化
+
+[2019-04-09 07:51:48,981] INFO  com.manage.demo.util.TestBaseCase ------------------开始执行测试---------------
+[2019-04-09 07:51:48,981] INFO  com.manage.demo.util.TestBaseCase 读取testng.xml配置的FirefoxDriver浏览器并将其初始化
+
+[2019-04-09 07:53:44,032] INFO  com.manage.demo.util.TestBaseCase ------------------开始执行测试---------------
+[2019-04-09 07:53:44,032] INFO  com.manage.demo.util.TestBaseCase 读取testng.xml配置的FirefoxDriver浏览器并将其初始化
+
+[2019-04-09 07:53:44,141] ERROR com.manage.demo.util.TestBaseCase 没有成功浏览器环境配置错误
+[2019-04-09 08:05:18,384] INFO  com.manage.demo.util.TestBaseCase ------------------开始执行测试---------------
+[2019-04-09 08:05:18,384] INFO  com.manage.demo.util.TestBaseCase 读取testng.xml配置的FirefoxDriver浏览器并将其初始化
+
+[2019-04-09 08:07:54,962] INFO  com.manage.demo.util.TestBaseCase ------------------开始执行测试---------------
+[2019-04-09 08:07:54,962] INFO  com.manage.demo.util.TestBaseCase 读取testng.xml配置的FirefoxDriver浏览器并将其初始化
+
+[2019-04-09 08:21:07,367] INFO  com.manage.demo.util.TestBaseCase ------------------开始执行测试---------------
+[2019-04-09 08:21:07,382] INFO  com.manage.demo.util.TestBaseCase 读取testng.xml配置的FirefoxDriver浏览器并将其初始化
+
+[2019-04-09 08:21:07,509] ERROR com.manage.demo.util.TestBaseCase 没有成功浏览器环境配置错误
+[2019-04-09 08:21:48,305] INFO  com.manage.demo.util.TestBaseCase ------------------开始执行测试---------------
+[2019-04-09 08:21:48,305] INFO  com.manage.demo.util.TestBaseCase 读取testng.xml配置的FirefoxDriver浏览器并将其初始化
+
+[2019-04-09 08:22:22,830] INFO  com.manage.demo.pagemanage.LoginPage 打开浏览器，访问http://121.40.197.16:3000/index.html#/login网址!
+[2019-04-09 08:22:23,887] INFO  com.manage.demo.util.ElementAction 查找元素：loginusername方式[By.xpath:.//*[@id='loginAccount']]
+[2019-04-09 08:22:24,047] INFO  com.manage.demo.util.ElementAction 清除input值:loginusername[By.xpath:.//*[@id='loginAccount']]
+[2019-04-09 08:22:24,047] INFO  com.manage.demo.util.ElementAction 查找元素：loginusername方式[By.xpath:.//*[@id='loginAccount']]
+[2019-04-09 08:22:24,141] INFO  com.manage.demo.util.ElementAction input输入：loginusername[By.xpath:.//*[@id='loginAccount']value:user1]
+[2019-04-09 08:22:25,152] INFO  com.manage.demo.util.ElementAction 查找元素：loginupassword方式[By.xpath:.//*[@id='loginPwd']]
+[2019-04-09 08:22:25,214] INFO  com.manage.demo.util.ElementAction 清除input值:loginupassword[By.xpath:.//*[@id='loginPwd']]
+[2019-04-09 08:22:25,214] INFO  com.manage.demo.util.ElementAction 查找元素：loginupassword方式[By.xpath:.//*[@id='loginPwd']]
+[2019-04-09 08:22:25,292] INFO  com.manage.demo.util.ElementAction input输入：loginupassword[By.xpath:.//*[@id='loginPwd']value:cpp2017]
+[2019-04-09 08:22:26,301] INFO  com.manage.demo.util.ElementAction 查找元素：loginbutton方式[By.xpath:.//*[@id='root']/div/div[2]/div[2]/form/div[3]/button]
+[2019-04-09 08:22:26,394] INFO  com.manage.demo.util.ElementAction click元素：loginbutton[By.xpath:.//*[@id='root']/div/div[2]/div[2]/form/div[3]/button]成功！
+[2019-04-09 08:23:27,127] INFO  com.manage.demo.util.TestBaseCase ------------------开始执行测试---------------
+[2019-04-09 08:23:27,127] INFO  com.manage.demo.util.TestBaseCase 读取testng.xml配置的FirefoxDriver浏览器并将其初始化
+
+[2019-04-09 08:24:01,969] INFO  com.manage.demo.pagemanage.LoginPage 打开浏览器，访问http://121.40.197.16:3000/index.html#/login网址!
+[2019-04-09 08:24:03,033] INFO  com.manage.demo.util.ElementAction 查找元素：loginusername方式[By.xpath:.//*[@id='loginAccount']]
+[2019-04-09 08:24:03,106] INFO  com.manage.demo.util.ElementAction 清除input值:loginusername[By.xpath:.//*[@id='loginAccount']]
+[2019-04-09 08:24:03,106] INFO  com.manage.demo.util.ElementAction 查找元素：loginusername方式[By.xpath:.//*[@id='loginAccount']]
+[2019-04-09 08:24:03,231] INFO  com.manage.demo.util.ElementAction input输入：loginusername[By.xpath:.//*[@id='loginAccount']value:user1]
+[2019-04-09 08:24:04,246] INFO  com.manage.demo.util.ElementAction 查找元素：loginupassword方式[By.xpath:.//*[@id='loginPwd']]
+[2019-04-09 08:24:04,308] INFO  com.manage.demo.util.ElementAction 清除input值:loginupassword[By.xpath:.//*[@id='loginPwd']]
+[2019-04-09 08:24:04,308] INFO  com.manage.demo.util.ElementAction 查找元素：loginupassword方式[By.xpath:.//*[@id='loginPwd']]
+[2019-04-09 08:24:04,401] INFO  com.manage.demo.util.ElementAction input输入：loginupassword[By.xpath:.//*[@id='loginPwd']value:cpp2017]
+[2019-04-09 08:24:05,414] INFO  com.manage.demo.util.ElementAction 查找元素：loginbutton方式[By.xpath:.//*[@id='root']/div/div[2]/div[2]/form/div[3]/button]
+[2019-04-09 08:24:05,523] INFO  com.manage.demo.util.ElementAction click元素：loginbutton[By.xpath:.//*[@id='root']/div/div[2]/div[2]/form/div[3]/button]成功！
+[2019-04-09 08:24:35,482] INFO  com.manage.demo.util.TestBaseCase ------------------开始执行测试---------------
+[2019-04-09 08:24:35,482] INFO  com.manage.demo.util.TestBaseCase 读取testng.xml配置的FirefoxDriver浏览器并将其初始化
+
+[2019-04-09 08:24:41,689] INFO  com.manage.demo.util.TestListener 测试用例:登录成功测试---start
+[2019-04-09 08:25:09,781] INFO  com.manage.demo.pagemanage.LoginPage 打开浏览器，访问http://121.40.197.16:3000/index.html#/login网址!
+[2019-04-09 08:25:10,812] INFO  com.manage.demo.util.ElementAction 查找元素：loginusername方式[By.xpath:.//*[@id='loginAccount']]
+[2019-04-09 08:25:10,890] INFO  com.manage.demo.util.ElementAction 清除input值:loginusername[By.xpath:.//*[@id='loginAccount']]
+[2019-04-09 08:25:10,890] INFO  com.manage.demo.util.ElementAction 查找元素：loginusername方式[By.xpath:.//*[@id='loginAccount']]
+[2019-04-09 08:25:10,984] INFO  com.manage.demo.util.ElementAction input输入：loginusername[By.xpath:.//*[@id='loginAccount']value:user1]
+[2019-04-09 08:25:11,984] INFO  com.manage.demo.util.ElementAction 查找元素：loginupassword方式[By.xpath:.//*[@id='loginPwd']]
+[2019-04-09 08:25:12,046] INFO  com.manage.demo.util.ElementAction 清除input值:loginupassword[By.xpath:.//*[@id='loginPwd']]
+[2019-04-09 08:25:12,046] INFO  com.manage.demo.util.ElementAction 查找元素：loginupassword方式[By.xpath:.//*[@id='loginPwd']]
+[2019-04-09 08:25:12,140] INFO  com.manage.demo.util.ElementAction input输入：loginupassword[By.xpath:.//*[@id='loginPwd']value:cpp2017]
+[2019-04-09 08:25:13,154] INFO  com.manage.demo.util.ElementAction 查找元素：loginbutton方式[By.xpath:.//*[@id='root']/div/div[2]/div[2]/form/div[3]/button]
+[2019-04-09 08:25:13,247] INFO  com.manage.demo.util.ElementAction click元素：loginbutton[By.xpath:.//*[@id='root']/div/div[2]/div[2]/form/div[3]/button]成功！
+[2019-04-09 08:25:15,264] INFO  com.manage.demo.util.TestListener 测试用例: 登录成功测试--passed
+[2019-04-09 08:25:15,264] INFO  com.manage.demo.util.TestListener 测试用例:登录成功测试---end
+[2019-04-09 08:25:48,027] INFO  com.manage.demo.util.TestBaseCase ------------------开始执行测试---------------
+[2019-04-09 08:25:48,028] INFO  com.manage.demo.util.TestBaseCase 读取testng.xml配置的FirefoxDriver浏览器并将其初始化
+
+[2019-04-09 08:25:54,097] INFO  com.manage.demo.util.TestListener 测试用例:登录成功测试---start
+[2019-04-09 08:26:22,235] INFO  com.manage.demo.pagemanage.LoginPage 打开浏览器，访问http://121.40.197.16:3000/index.html#/login网址!
+[2019-04-09 08:26:23,262] INFO  com.manage.demo.util.ElementAction 查找元素：loginusername方式[By.xpath:.//*[@id='loginAccount']]
+[2019-04-09 08:26:23,339] INFO  com.manage.demo.util.ElementAction 清除input值:loginusername[By.xpath:.//*[@id='loginAccount']]
+[2019-04-09 08:26:23,339] INFO  com.manage.demo.util.ElementAction 查找元素：loginusername方式[By.xpath:.//*[@id='loginAccount']]
+[2019-04-09 08:26:23,433] INFO  com.manage.demo.util.ElementAction input输入：loginusername[By.xpath:.//*[@id='loginAccount']value:user1]
+[2019-04-09 08:26:24,451] INFO  com.manage.demo.util.ElementAction 查找元素：loginupassword方式[By.xpath:.//*[@id='loginPwd']]
+[2019-04-09 08:26:24,497] INFO  com.manage.demo.util.ElementAction 清除input值:loginupassword[By.xpath:.//*[@id='loginPwd']]
+[2019-04-09 08:26:24,497] INFO  com.manage.demo.util.ElementAction 查找元素：loginupassword方式[By.xpath:.//*[@id='loginPwd']]
+[2019-04-09 08:26:24,575] INFO  com.manage.demo.util.ElementAction input输入：loginupassword[By.xpath:.//*[@id='loginPwd']value:cpp2017]
+[2019-04-09 08:26:25,579] INFO  com.manage.demo.util.ElementAction 查找元素：loginbutton方式[By.xpath:.//*[@id='root']/div/div[2]/div[2]/form/div[3]/button]
+[2019-04-09 08:26:25,673] INFO  com.manage.demo.util.ElementAction click元素：loginbutton[By.xpath:.//*[@id='root']/div/div[2]/div[2]/form/div[3]/button]成功！
+[2019-04-09 08:26:27,673] INFO  com.manage.demo.util.TestListener 测试用例: 登录成功测试--passed
+[2019-04-09 08:26:27,673] INFO  com.manage.demo.util.TestListener 测试用例:登录成功测试---end
+[2019-04-09 08:26:30,109] ERROR com.manage.demo.util.SendMail 发送邮件失败！
